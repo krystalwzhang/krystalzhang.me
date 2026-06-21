@@ -6,6 +6,7 @@ I am also a Corporate Relations Associate at the Ted Rogers Marketing Associatio
 
 I am interested in ML and AI development - both the foundational knowledge and its applications to marketing and the real world.
 
++ I am originally from the US and studying in Toronto, with flexibility to travel!
 + Coming up, I'm seeking **Fall 2026 Marketing Internships** based in Toronto, NYC, and the Bay Area!
 + Beyond Toronto, I'm building a community and empowering girls in corporate and tech through events, case competitions, and hackathons!
 
