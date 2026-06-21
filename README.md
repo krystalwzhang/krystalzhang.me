@@ -33,3 +33,4 @@ Within TRSM, I'm a Corporate Relations Associate at the Ted Rogers Marketing Ass
 [Linkedin](https://www.linkedin.com/in/krystalwzhang/)
 
 Email me: krystal.zhang@torontomu.ca
+
