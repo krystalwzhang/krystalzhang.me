@@ -2,7 +2,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hi, I'm Krystal.
 Marketing Management Co-Op student at the Ted Rogers School of Management (TRSM) at Toronto Metropolitan University.
 
-+++ Corporate Relations Associate at the Ted Rogers Marketing Association (TRMA).
+Within TRSM, I'm a Corporate Relations Associate at the Ted Rogers Marketing Association (TRMA).
 
 I am interested in ML and AI development - both the foundational knowledge and its applications to marketing and the real world.
 
