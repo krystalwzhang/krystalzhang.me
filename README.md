@@ -26,5 +26,6 @@ Also, I am a Corporate Relations Associate at Ted Rogers Marketing Association (
 
   ### Let's Connect!
  Feel free to reach out - I'm always looking for ways to grow and learn from others!
- [Linkedin](https://www.linkedin.com/in/krystalwzhang/)!
+ 
+[Linkedin](https://www.linkedin.com/in/krystalwzhang/)!
 My email is krystal.zhang@torontomu.ca
