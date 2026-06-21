@@ -2,12 +2,12 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hi, I'm Krystal.
 I am a Marketing Management student at Ted Rogers School of Management, Toronto Metropolitan University!
 
-Also, I am a Corporate Relations Associate at Ted Rogers Marketing Association (TRMA).
+Outside of Toronto tasks Corporate Relations Associate at Ted Rogers Marketing Association (TRMA).
 
 + I'm interested in ML and AI development - both the foundational knowledge and its applications to marketing.
 + Currently, I'm building a marketing community and empowering girls in tech through events, case competitions, and hackathons!
 
-  ### My Favourite Tools 🛠️
+  ### My Favourite Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,6 +24,7 @@ Also, I am a Corporate Relations Associate at Ted Rogers Marketing Association (
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-- Let's connect on [Linkedin](https://www.linkedin.com/in/krystalwzhang/)!
-- Feel free to reach out - I'm always looking for ways to grow and learn from others! 
+  ### Let's Connect!
+ Feel free to reach out - I'm always looking for ways to grow and learn from others!
+ [Linkedin](https://www.linkedin.com/in/krystalwzhang/)!
 My email is krystal.zhang@torontomu.ca
