@@ -4,7 +4,7 @@ Marketing Management Co-Op student at the Ted Rogers School of Management (TRSM)
 
 Within TRSM, I'm a Corporate Relations Associate at the Ted Rogers Marketing Association (TRMA).
 
-+ I am interested in ML and AI development - both the foundational knowledge and its applications to marketing and the real world.
++ I am interested in ML and AI development - both the foundational knowledge and its applications to marketing + the real world.
 
 + I am originally from the US and studying in Toronto, with flexibility to travel!
 + Coming up, I'm seeking **Fall 2026 Marketing Internships** based in **Toronto, NYC, and the Bay Area**!
