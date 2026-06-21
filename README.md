@@ -1,7 +1,5 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hi, I'm Krystal.
-Welcome to my page!
-
 I am a Marketing Management student at Ted Rogers School of Management, Toronto Metropolitan University!
 
 Also, I am a Corporate Relations Associate at Ted Rogers Marketing Association (TRMA).
