@@ -1,6 +1,14 @@
 <div align="center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hi, I'm Krystal.
+
+<a href="https://www.linkedin.com/in/krystalwzhang/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:krystal.zhang@torontomu.ca" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram"/>
+</a>
+ 
 A **Marketing** Co-Op student at the Ted Rogers School of Management (TRSM) at Toronto Metropolitan University.
 <div align="left">
   
