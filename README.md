@@ -1,9 +1,10 @@
 
-# Hi, I'm Krystal Zhang.
+# <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hi, I'm Krystal Zhang.
+Welcome to my page!
 + I'm a Marketing student @ Ted Rogers School of Management, TMU and a Corporate Relations Associate at Ted Rogers Marketing Association (TRMA).
 
 + I'm interested in ML and AI development - both the foundational knowledge and its applications to marketing.
-+ I'm passionate about building community and empowering girls in tech through marketing - through case competitions and hackathons.
++ Currently, I'm building a marketing community and empowering girls in tech through events, case competitions, and hackathons!
 
   ### My Favourite Tools 🛠️
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
