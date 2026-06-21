@@ -3,6 +3,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hi, I'm Krystal.
 A **Marketing** Co-Op student at the Ted Rogers School of Management (TRSM) at Toronto Metropolitan University.
 <div align="left">
+  
 I am originally from the US, **seeking Fall 2026 Marketing Internships** based in **Toronto, NYC, and the Bay Area**!
 
 
