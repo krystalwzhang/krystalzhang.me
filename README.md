@@ -8,7 +8,7 @@ I am interested in ML and AI development - both the foundational knowledge and i
 
 + I am originally from the US and studying in Toronto, with flexibility to travel!
 + Coming up, I'm seeking **Fall 2026 Marketing Internships** based in **Toronto, NYC, and the Bay Area**!
-+ Beyond Toronto, I'm building a community empowering girls in corporate + tech through events, case competitions, + hackathons!
++ Beyond Toronto, I'm building a community empowering girls in tech + corporate through events, case competitions, + hackathons!
 
 ### My Favourite Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
