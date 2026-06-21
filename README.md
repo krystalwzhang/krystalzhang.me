@@ -1,13 +1,14 @@
+<div align="center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hi, I'm Krystal.
 A **Marketing** Co-Op student at the Ted Rogers School of Management (TRSM) at Toronto Metropolitan University.
++ I am originally from the US with the flexibility to travel!
++ Coming up, I'm seeking **Fall 2026 Marketing Internships** based in **Toronto, NYC, and the Bay Area**!
 
 Within TRSM, I'm a **Corporate Relations Associate** at the Ted Rogers Marketing Association (TRMA).
 
 + I am interested in ML and AI development - both the foundational knowledge and its applications to marketing and the real world.
-
-+ I am originally from the US with the flexibility to travel!
-+ Coming up, I'm seeking **Fall 2026 Marketing Internships** based in **Toronto, NYC, and the Bay Area**!
+  
 + Beyond Toronto, I'm building a community empowering girls in tech + corporate through events, case competitions, + hackathons!
 
 ### My Favourite Tools
