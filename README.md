@@ -10,7 +10,7 @@
 </a>
  
 A **Marketing** Co-Op student at the Ted Rogers School of Management (TRSM) at Toronto Metropolitan University.
-<div align="left"> </div>  
+<div align="left"> 
   
 I am originally from the US, **seeking Fall 2026 Marketing Internships** based in **Toronto, NYC, and the Bay Area**!
 
