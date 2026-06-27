@@ -21,7 +21,7 @@ Within TRSM, I'm a **Corporate Relations Associate** at the Ted Rogers Marketing
   
 + Beyond Toronto, I'm building a community empowering girls in tech + corporate through events, case competitions, + hackathons!
 
-Catch me in Singapore at Nanyang Technological University (NTU) exchange in January 2027!
+Catch me in Singapore at Nanyang Technological University (NTU) in January 2027!
 
 ### My Favourite Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
