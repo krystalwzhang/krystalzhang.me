@@ -6,11 +6,11 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:krystal.zhang@torontomu.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
  
 A **Marketing** Co-Op student at the Ted Rogers School of Management (TRSM) at Toronto Metropolitan University.
-<div align="left">
+<div align="left"> </div>  
   
 I am originally from the US, **seeking Fall 2026 Marketing Internships** based in **Toronto, NYC, and the Bay Area**!
 
