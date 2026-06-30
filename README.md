@@ -30,12 +30,6 @@ Catch me in Singapore at Nanyang Technological University (NTU) in January 2027!
 
 
   ### Let's Connect!
- <a href="https://www.linkedin.com/in/krystalwzhang/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:krystal.zhang@torontomu.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram"/>
-</a>
  
  Feel free to reach out - I'm always looking for ways to grow and learn from others!
 
