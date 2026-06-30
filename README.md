@@ -23,11 +23,10 @@ Within TRSM, I'm a **Corporate Relations Associate** at the Ted Rogers Marketing
 
 Catch me in Singapore at Nanyang Technological University (NTU) in January 2027!
 
-### My Favourite Tools
+### My Favourite Tools I'm Learning!
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[![HubSpot]](https://img.shields.io/badge/HubSpot?style=flat-square&logo=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fbuild-passing-brightgreen%3Fstyle%3Dfor-the-badge&logoColor=orange&label=white&labelColor=orange&color=orange)
 
 
   ### Let's Connect!
